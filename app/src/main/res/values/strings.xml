@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="http_error_occurred">Http error occurred</string>
+    <string name="io_error_occurred">IO error occurred</string>
+    <string name="error_occurred">Error occurred</string>
+    <string name="cannot_get_the_word">Cannot get the word Related to dto mapping</string>
+    <string name="search_a_word">Search a word</string>
+    <string name="definition">Definition</string>
+    <string name="example">Example</string>
+</resources>
